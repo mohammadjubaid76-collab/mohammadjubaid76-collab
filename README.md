@@ -1,3 +1,4 @@
+#mohammadjubaid76-collab/README.md
 # 💫 About Me:
 👋 Hi, I'm Mohammad Jubaid.<br>🎓 B.Tech AI & ML Student<br>💻 Aspiring Software Developer | DSA & Problem Solving<br>🚀 Exploring AI/ML and Competitive Programming<br>🤝 I’m looking for help with **Open Source Contributions and Real-World Projects**<br>🌱 I’m currently learning **DSA, Python, Java, and AI/ML**<br>✨ Learning something new every day!<br>
 
