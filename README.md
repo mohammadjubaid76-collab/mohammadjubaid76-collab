@@ -1,22 +1,97 @@
-#mohammadjubaid76-collab/README.md
-# 💫 About Me:
-👋 Hi, I'm Mohammad Jubaid.<br>🎓 B.Tech AI & ML Student<br>💻 Aspiring Software Developer | DSA & Problem Solving<br>🚀 Exploring AI/ML and Competitive Programming<br>🤝 I’m looking for help with **Open Source Contributions and Real-World Projects**<br>🌱 I’m currently learning **DSA, Python, Java, and AI/ML**<br>✨ Learning something new every day!<br>
+# 👋 Hi, I'm Mohammad Jubaid!
 
+### 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jubaid7214?utm_source=qr&igsh=OGxiazNobDBnZG0y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkedin.com/in/mohammad-jubaid-6a416a330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadjubaid76@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohammadjubaid76-collab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mohammadjubaid76-collab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammadjubaid76-collab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammadjubaid76-collab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+💻 Aspiring Software Developer | DSA & Problem Solving  
+🤖 Exploring Artificial Intelligence and Machine Learning  
+🌱 Currently learning Python, Java, DSA, and AI/ML  
+🚀 Building programming projects and strengthening my technical skills  
+🤝 Interested in Open Source Contributions and Real-World Projects  
+✨ Learning something new every day!
 
 ---
-[![](https://komarev.com/ghpvc/?username=mohammadjubaid76-collab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadjubaid76-collab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-jubaid-6a416a330/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jubaid7214/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadjubaid76@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data Analysis & AI/ML
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🗄️ Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+Explore my repositories to see my programming and Machine Learning projects.
+
+- 🏠 [House Price Prediction](https://github.com/mohammadjubaid76-collab/House_price_prediction)
+- 💰 [Adult Income ML](https://github.com/mohammadjubaid76-collab/adult_income_ml)
+- 📊 [KPI Dictionary & Data Quality Contract](https://github.com/mohammadjubaid76-collab/-KPI-Dictionary-Data-Quality-Contract)
+- 🎮 [Word Guessing Game](https://github.com/mohammadjubaid76-collab/word-guessing-game)
+- 🐍 [CodeAlpha Python Tasks](https://github.com/mohammadjubaid76-collab/CodeAlpha-Python-Tasks)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=mohammadjubaid76-collab&theme=tokyonight&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohammadjubaid76-collab&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammadjubaid76-collab&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohammadjubaid76-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 🎯 Current Goals
+
+- 📚 Strengthen Data Structures and Algorithms.
+- 🐍 Improve Python and Java programming skills.
+- 🤖 Develop practical AI/ML projects.
+- 🌍 Contribute to open-source projects.
+- 💼 Prepare for internships and software development opportunities.
+
+---
+
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadjubaid76-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
